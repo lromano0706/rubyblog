@@ -1,4 +1,5 @@
 require "test_helper"
+#adding these notes for git commit test
 
 module ApplicationCable
   class ConnectionTest < ActionCable::Connection::TestCase
